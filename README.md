@@ -1,4 +1,3 @@
-markov_crap
-===========
-
-Markov crap
+markov
+======
+Placeholder for markov project
